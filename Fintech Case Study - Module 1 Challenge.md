@@ -1,5 +1,6 @@
 
 ## FinTech Case Study
+<img width="1278" alt="image" src="https://user-images.githubusercontent.com/109565620/184553525-de8079e6-3e19-46ec-a0c6-990f88bdf6e9.png">
 
 ## Overview and Origin
 
